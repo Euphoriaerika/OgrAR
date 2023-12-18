@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig>
   <Tracking>
+    <ImageTarget name="tree-house" size="1.000000 1.426637" />
     <ImageTarget name="main" size="1.000000 1.358230" />
   </Tracking>
 </QCARConfig>
